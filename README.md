@@ -1,1 +1,1 @@
-G10-instrat-design
+G10InstratDesign.github.io
